@@ -23,7 +23,7 @@ body{
     
 }
 
-.escola{
+#escola{
     background-image: linear-gradient(#383D58,#4EBFE9);
     height: 540px;
     color: #f5f5f5;
@@ -57,4 +57,29 @@ width: 40%;
 
 .paragrafo-ensino{
     padding: 16px 0 ;
+}
+
+.foto-estudante{
+    width: 120px;
+    height: auto;
+}
+
+.icone{
+    padding: 8px 0;
+    width: 24px;
+}
+
+.lista-estudantes{
+    display: grid;
+    grid-template-columns: 20% 20% 20% 20% 20%;
+    grid-template-rows: auto; 
+   
+}
+
+.item-lista-estudante{
+    text-align: center;
+}
+
+#container-estudante { 
+    padding: 50px 400px;
 }
