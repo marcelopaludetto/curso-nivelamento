@@ -7,11 +7,15 @@ body{
     font-family: 'Poppins', sans-serif;
 }
 
-.cabecalho-lista--item{
+.cabecalho-lista--item {
     display: inline;
     margin-right: 16px;
+    color: #F5F5F5;
 }
-
+.cabecalho-lista--item a {
+    color: #F5F5F5;
+    text-decoration: none;
+}
 .cabecalho{
     padding: 16px;
     background-color: #383D58;
