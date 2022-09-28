@@ -83,7 +83,8 @@ width: 40%;
 }
 
 #container-estudante { 
-    padding: 50px 400px;
+    padding: 50px 0;
+    text-align: center;
     text-transform: uppercase;
 }
 
